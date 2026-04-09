@@ -1,0 +1,1 @@
+Checkpoint da matéria de Object Oriented Programming com o objetivo de consertar um código malfeito de um estagiário em uma empresa fictícia de delivery, utilizando conceitos de OOP, Clean Code e lógica de negócio.
